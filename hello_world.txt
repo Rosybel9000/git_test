@@ -1,1 +1,4 @@
 hello world too
+git 
+this better works now 
+last test for git reset and git whatever
